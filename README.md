@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Wanganlin00
-- 👀 I major in oncology radiotherapy.
+- 👋 Hi, I’m @wanganlin00
+- 👀 I major in radiation oncology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me：wanganlin00@outlook.com
 
